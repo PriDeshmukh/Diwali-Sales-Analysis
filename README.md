@@ -1,3 +1,6 @@
-# Diwali-Sales-Analysis-Using-Python
+# Diwali Sales Analysis Using Python
 
-This project is all about how to analyze the Diwali Sales Database. Examining the dataset with Python and to share the summary through which it helps to improve customers experience by analyzing sales data and to increase revenue.
+•	Examined the dataset through python and shared the summary through which it helps to improve customers experience and to increase revenue.
+
+•	Tools and Technologies used: Python, Data Cleaning, Data Preprocessing, Data Manipulation, Data Analysis, Data Visualization, NumPy, Pandas, Matplotlib, Seaborn, EDA
+
